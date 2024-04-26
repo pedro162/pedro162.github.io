@@ -46,5 +46,4 @@ I'm actively seeking opportunities to work on challenging projects and collabora
 Estou buscando ativamente oportunidades para trabalhar em projetos desafiadores e colaborar com pessoas e equipes talentosas. Sinta-se à vontade para entrar em contato se acreditar que poderíamos trabalhar juntos!
 
 ## Let's Connect / Vamos Conectar
-- LinkedIn: [Pedro Aguiar](https://www.linkedin.com/in/pedro-aguiar)
-- Twitter: [@pedro_dev](https://twitter.com/pedro_dev)
+- LinkedIn: [Pedro Aguiar](https://www.linkedin.com/in/pedro-aguiar-92000a176)
