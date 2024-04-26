@@ -8,15 +8,32 @@ Sou um desenvolvedor de PHP Laravel, JavaScript, React e Python apaixonado por c
 - 📧 Contact / Contato: pedro.aguiar.dev@gmail.com
 - 📱 Phone / Telefone: +55 98984257623
 
-![756080837](https://github.com/pedro162/pedro162.github.io/assets/60150082/5502c14d-4fb8-4db7-a283-87d93d0c798f)
+![Minha Foto](https://github.com/pedro162/pedro162.github.io/assets/60150082/5502c14d-4fb8-4db7-a283-87d93d0c798f)
 
+## Education / Educação
+- Bachelor's degree in Computer Science from Universidade Estácio de Sá.
+  - Graduated with honors, GPA: X.XX/4.00
 
 ## Skills / Habilidades
+- Languages / Linguagens:
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- Languages / Linguagens: PHP, JavaScript, Python
-- Frameworks: Laravel, Django, React.js
-- Tools / Ferramentas: Git, Docker, VS Code
-- Databases / Bancos de Dados: MySQL, SQLServer
+- Frameworks:
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+  ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+- Tools / Ferramentas:
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+- Databases / Bancos de Dados:
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![SQLServer](https://img.shields.io/badge/-SQLServer-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
 - Other / Outros: Proficient in SQL / Proficiente em SQL
 
 ## Projects / Projetos
@@ -32,4 +49,3 @@ Estou buscando ativamente oportunidades para trabalhar em projetos desafiadores 
 ## Let's Connect / Vamos Conectar
 - LinkedIn: [Pedro Aguiar](https://www.linkedin.com/in/pedro-aguiar)
 - Twitter: [@pedro_dev](https://twitter.com/pedro_dev)
-
