@@ -12,7 +12,6 @@ Sou um desenvolvedor de PHP Laravel, JavaScript, React e Python apaixonado por c
 
 ## Education / Educação
 - Bachelor's degree in Computer Science from Universidade Estácio de Sá.
-  - Graduated with honors, GPA: X.XX/4.00
 
 ## Skills / Habilidades
 - Languages / Linguagens:
