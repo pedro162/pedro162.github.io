@@ -8,7 +8,10 @@ Sou um desenvolvedor de PHP Laravel, JavaScript, React e Python apaixonado por c
 - 📧 Contact / Contato: pedro.aguiar.dev@gmail.com
 - 📱 Phone / Telefone: +55 98984257623
 
+![756081070](https://github.com/pedro162/pedro162.github.io/assets/60150082/9d28bb36-7b13-41ee-8691-6ef528fe6977)
+
 ## Skills / Habilidades
+
 - Languages / Linguagens: PHP, JavaScript, Python
 - Frameworks: Laravel, Django, React.js
 - Tools / Ferramentas: Git, Docker, VS Code
