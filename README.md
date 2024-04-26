@@ -1,34 +1,31 @@
-# Bem-vindo ao meu perfil do GitHub!
+# Welcome to my GitHub profile!
 
-## Sobre Mim
-Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software, aprendizado de máquina e inteligência artificial. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+## About Me / Sobre Mim
+I'm a PHP Laravel, JavaScript, React, and Python developer passionate about crafting high-quality software solutions. Currently, I'm working on personal projects and seeking new opportunities to contribute to the global tech scene. Over the years, I've been improving my English skills to better communicate and collaborate internationally.
 
-- 🌱 Atualmente estou aprendendo sobre redes neurais artificiais e aprendizado profundo.
-- 💼 Trabalhando como desenvolvedor de software na [Empresa X](https://www.exemplo.com).
-- 👯 Estou procurando colaborar em projetos de código aberto relacionados a Python e IA.
-- 📫 Como me alcançar: [meuemail@example.com](mailto:meuemail@example.com)
+Sou um desenvolvedor de PHP Laravel, JavaScript, React e Python apaixonado por criar soluções de software de alta qualidade. Atualmente, estou trabalhando em projetos pessoais e buscando novas oportunidades para contribuir para o cenário global de tecnologia. Ao longo dos anos, tenho aprimorado minhas habilidades em inglês para me comunicar e colaborar melhor internacionalmente.
 
-## Projetos Destacados
-Alguns dos projetos em que tenho trabalhado recentemente:
+- 📧 Contact / Contato: pedro.aguiar.dev@gmail.com
+- 📱 Phone / Telefone: +55 98984257623
 
-- [Projeto A](https://github.com/seuusername/projeto-a): Breve descrição do projeto A.
-- [Projeto B](https://github.com/seuusername/projeto-b): Breve descrição do projeto B.
-- [Projeto C](https://github.com/seuusername/projeto-c): Breve descrição do projeto C.
+## Skills / Habilidades
+- Languages / Linguagens: PHP, JavaScript, Python
+- Frameworks: Laravel, Django, React.js
+- Tools / Ferramentas: Git, Docker, VS Code
+- Databases / Bancos de Dados: MySQL, SQLServer
+- Other / Outros: Proficient in SQL / Proficiente em SQL
 
-## Habilidades
-- Linguagens de Programação: Python, JavaScript, Java
-- Frameworks: Flask, React.js, Spring Boot
-- Ferramentas: Git, Docker, VS Code
+## Projects / Projetos
+- Virtual Store / Loja Virtual: [GitHub](https://github.com/pedro162/loja_virtual)
+- Esthetic Clinic System / Sistema para Clínica de Estética: [GitHub](https://github.com/pedro162/clinica_estetica)
+- Music Player / Reprodutor de Música: [GitHub](https://github.com/pedro162/musicplayer)
 
-## Minhas Estatísticas no GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=dark)
+## Seeking Opportunities / Buscando Oportunidades
+I'm actively seeking opportunities to work on challenging projects and collaborate with talented individuals and teams. Feel free to reach out if you think we could work together!
 
-## Entre em Contato
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/seunome/)
-- Twitter: [@seunome](https://twitter.com/seunome)
+Estou buscando ativamente oportunidades para trabalhar em projetos desafiadores e colaborar com pessoas e equipes talentosas. Sinta-se à vontade para entrar em contato se acreditar que poderíamos trabalhar juntos!
 
-## Contribuições
-Contribuições são bem-vindas! Fique à vontade para abrir uma issue ou enviar um pull request.
+## Let's Connect / Vamos Conectar
+- LinkedIn: [Pedro Aguiar](https://www.linkedin.com/in/pedro-aguiar)
+- Twitter: [@pedro_dev](https://twitter.com/pedro_dev)
 
-## Agradecimentos
-Obrigado por visitar meu perfil! Espero que encontre algo interessante por aqui.
