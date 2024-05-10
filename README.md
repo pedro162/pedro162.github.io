@@ -40,6 +40,7 @@ Sou um desenvolvedor de PHP Laravel, JavaScript, React e Python apaixonado por c
 - Esthetic Clinic System / Sistema para Clínica de Estética: [GitHub](https://github.com/pedro162/clinica_estetica)
 - Music Player / Reprodutor de Música: [GitHub](https://github.com/pedro162/musicplayer)
 - Bookstore System / Sistema para livraria: [GitHub](https://github.com/pedro162/Livraria)
+- Bookstore RESTful API / API RESTfull da livraria: [GitHub](https://github.com/pedro162/bookstore_api)
 
 ## Seeking Opportunities / Buscando Oportunidades
 I'm actively seeking opportunities to work on challenging projects and collaborate with talented individuals and teams. Feel free to reach out if you think we could work together!
