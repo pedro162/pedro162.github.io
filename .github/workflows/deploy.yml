@@ -24,14 +24,19 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-                - name: Install dependencies
+      - name: Install dependencies
         run: npm install --no-audit --no-fund
+      - name: Typecheck
+        run: npm run typecheck
       - name: Build
         run: npm run build
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist
+
   deploy:
     environment:
       name: github-pages
